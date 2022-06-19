@@ -1,4 +1,6 @@
 # SID
+Symmetric searchable encryption scheme implementation in python from https://eprint.iacr.org/2019/813
+
 How to run:
 I tested the code on a linux machine with python3 and nano installed. It contains os.system() commands which could be linux terminal speciffic. Install pycryptodome library for python3 (pip3 install pycryptodome). Run with: $ python3 SID.py
 
