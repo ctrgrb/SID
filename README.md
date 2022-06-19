@@ -8,4 +8,4 @@ It will read the txt files from a specified folder (for example D184MB). Then it
 
 If the databases are aready created once answer n to the "[?] Is this the first time running the script? (y/n)" question as it will just use the already created databases.
 
-The Experiments.pdf file contains some experiments I have done with a set of files. It also contains some description of the bugs that I could not solve on time.
+The Experiments.pdf file contains some experiments I have done with a set of files.
